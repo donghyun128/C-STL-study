@@ -1,0 +1,4 @@
+﻿  템플릿.cpp
+C:\Users\dongh\Documents\학습용 소스파일\C++\뇌를 자극하는 C++ STL\템플릿\템플릿\템플릿.cpp(129,1): error C2990: 'Node': 비클래스 템플릿이(가) 이미 클래스 템플릿(으)로 선언되었습니다.
+C:\Users\dongh\Documents\학습용 소스파일\C++\뇌를 자극하는 C++ STL\템플릿\템플릿\템플릿.cpp(117): message : 'Node' 선언을 참조하십시오.
+C:\Users\dongh\Documents\학습용 소스파일\C++\뇌를 자극하는 C++ STL\템플릿\템플릿\템플릿.cpp(145): message : 컴파일되는 클래스 템플릿 인스턴스화 'Stack<T>'에 대한 참조를 확인하세요.
